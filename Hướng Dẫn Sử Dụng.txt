@@ -1,0 +1,37 @@
+Bước 1 : Add Fb tao đi mới xài đc nha 
+Facebook: https://www.facebook.com/100001481305191
+Facebook 2: https://www.facebook.com/baotan.gdtg
+Zalo: 0978809934
+
+
+Bước 2 : mở file install.exe lên để down những thứ cần thiết về 
+bước 3 : mở file Panupong-V3.exe ra chạy bth
+
+
+
+
+
+=======>> điện thoại thì chạy trên termux :
+--> mở file install lên để down những thứ cần thiết về
+lệnh --> python install.py 
+hoặc python3 install.py
+
+
+mở file Panupong-V3.py ra chạy bth
+lệnh chạy file : python3 Panupong-V3.py
+
+
+
+
+Hướng Dẫn : 
+[+] ENTER THE NUMBER OF THREADS FOR DDoS --->>> (2000-5000)
+----> các bạn chọn từ 2000-5000 ( THREADS càng lớn thì càng lag )
+
+[+] Enter the Site that You want to DDoS
+----> nhập link web câng ddos ra
+
+Are you DDoS with Google Collab [Y/N] [default : Y] 
+----> chọn Y nha
+
+[+] Enter 1 For a Very Small Target Like a Device and 2  for a Website
+----> chọn 2 nha
